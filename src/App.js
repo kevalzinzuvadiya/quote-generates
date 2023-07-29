@@ -28,7 +28,7 @@ class App extends React.Component {
     return (
       <>
         <div className="image" STYLE="background:url(../images/keval.jpg">
-          <h1 className="bg-red-400 text-white text-center p-9 text-lg mb-40">
+          <h1 className="bg-red-400 text-black text-center p-9 text-lg mb-40">
             {"[ Q           U          O          T          E          S ]" }
            
           </h1>
